@@ -1,0 +1,1 @@
+MAX_SIDE_VALUE = 100
